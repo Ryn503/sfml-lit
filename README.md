@@ -1,2 +1,3 @@
-# sfml-lit
-a simple light system made with Line of Sight in c++
+# SFML-lit
+
+A simple light system made in SFML, thanks to [Sight & Light](https://ncase.me/sight-and-light/)
