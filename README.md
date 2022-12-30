@@ -2,6 +2,10 @@
 
 A simple light system made in SFML, thanks to [Sight & Light](https://ncase.me/sight-and-light/)<br><br>
 
+# Demo
+
+![demo](demo.gif)
+
 # Example
 
 ```c++
